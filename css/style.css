@@ -105,3 +105,16 @@ table tbody tr:nth-child(2n+1) {
 table tbody tr:nth-child(2n) {
     background-color: white;
 }
+
+.w25 {
+    width: 25%;
+}
+
+.w50 {
+    width: 50%;
+}
+
+table {
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
